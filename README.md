@@ -6,6 +6,5 @@ run_analysis.R:
 - outputs the data set into a text file called "data_tidy.txt"
 
 To run the file:
-1) make sure you have downloaded the UCI HAR Dataset
-2) the data set must be in your working directory with the file
-   original file structure where the top level folder is "UCI HAR Dataset"
+- make sure you have downloaded the UCI HAR Dataset
+- the data set must be in your working directory with the original file structure where the top level folder is "UCI HAR Dataset"
